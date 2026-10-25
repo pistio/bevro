@@ -6,7 +6,7 @@ to place and easy to review.
 ## Setup
 
 ```sh
-git clone https://github.com/jc-universe87/bevro.git && cd bevro
+git clone https://github.com/pistio/bevro.git && cd bevro
 docker compose up -d --build        # web :6140, api :6141, db :6142, scheduler
 ```
 

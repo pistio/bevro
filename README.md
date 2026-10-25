@@ -117,7 +117,7 @@ results so there is something to look at. A new installation starts empty.</sub>
 You need Docker with Compose v2. Nothing else.
 
 ```sh
-git clone https://github.com/jc-universe87/bevro.git
+git clone https://github.com/pistio/bevro.git
 cd bevro
 docker compose up -d --build
 ```

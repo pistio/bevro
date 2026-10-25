@@ -6,7 +6,7 @@ import { CLEAR_HISTORY_DETAIL, CLEAR_HISTORY_QUESTION } from "./Recent";
 import { useTheme, type Theme } from "../lib/theme";
 
 // Where this copy of Bevro came from. One line, so a fork changes it once.
-const REPOSITORY = "https://github.com/jc-universe87/bevro";
+const REPOSITORY = "https://github.com/pistio/bevro";
 
 const THEMES: { value: Theme; label: string }[] = [
   { value: "system", label: "System" },
