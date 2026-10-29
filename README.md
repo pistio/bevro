@@ -387,6 +387,15 @@ Issues and pull requests are welcome. [CONTRIBUTING.md](CONTRIBUTING.md) has
 the setup, the conventions and what a good PR looks like. Security concerns:
 [SECURITY.md](SECURITY.md).
 
+## Support independent development
+
+Bevro is independently developed and maintained. If it is useful to you, you can support ongoing work with a voluntary contribution. Sponsorship does not change the project's licence or grant access to features.
+
+<p>
+  <a href="https://github.com/sponsors/pistio"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support-0E2D5B?logo=githubsponsors&logoColor=white" alt="Support via GitHub Sponsors"></a>
+  <a href="https://ko-fi.com/pistio"><img src="https://img.shields.io/badge/Ko--fi-Buy%20a%20coffee-0E2D5B?logo=kofi&logoColor=white" alt="Support via Ko-fi"></a>
+</p>
+
 ## Licence
 
 Apache-2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE).
